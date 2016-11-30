@@ -53,6 +53,7 @@
                     <select class="form-control">
                         <option>Accounting/Finance</option>
                         <option>Bank</option>
+			<option>Business Analyst</option>
                         <option>Engineering</option>
                         <option>IT</option>
                     </select>
